@@ -1,0 +1,53 @@
+body {
+    margin: 0%;
+}
+
+.container {
+    background-color: #15162f;
+    max-width: 100%;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.DivLogo {
+    display: flex;
+    align-items: center;
+}
+
+.logoMiche {
+    width: 200px;
+    height: auto;
+}
+
+.divButtons {
+    display: flex;
+    align-items: center;
+}
+
+.buttonsNav {
+    margin-left: 30px;
+}
+
+.Navtext {
+    font-size: 25px;
+    font-weight: 700;
+    color: white;
+}
+
+.buttonsNav {
+    width: 200px;
+    height: 50px;
+    border-radius: 30px;
+    font-size: 25px;
+    font-weight: 700;
+    cursor: pointer;
+    background-color: #f9d026;
+}
+
+.imgButton {
+    width: 20px;
+    padding-left: 12px;
+    vertical-align: middle;
+    display: inline-block;
+}
