@@ -76,3 +76,41 @@ body {
   line-height: 78px;
   margin-top: 20px;
 }
+
+.micheservices{
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+
+.michecontainer{
+  max-width: 70%;
+  flex-direction: column;
+  align-items: center;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.miche2{
+  color: #15162f;
+  text-align: center;
+  text-transform: none;
+  margin-bottom: 25px;
+  font-family: Poppins,sans-serif;
+  font-size: 65px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 55px;
+  margin-top: 32px;
+}
+
+.pmiche{
+  width: 50%;
+  color: #15162f;
+  text-align: center;
+  font-family: Montserrat,sans-serif;
+  font-size: 16px;
+  line-height: 30px;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
