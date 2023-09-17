@@ -336,3 +336,40 @@ img{
   line-height: 31px;
   font-weight: 700;
 }
+
+.michebluebg {
+  background-color: #15162f;
+  background-image: url(https://uploads-ssl.webflow.com/6123daab7aabe860039063f6/6123dbb729d06cb8fa19928f_il-espuma-azul-flip.png), url(https://uploads-ssl.webflow.com/6123daab7aabe860039063f6/6123dbb75233fd7f8e66bb3b_il-espuma-azul.svg);
+  background-position: 100% 100%,0 0;
+  background-repeat: no-repeat,no-repeat;
+  background-size: auto,auto;
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+
+.pmicheyllw{
+  width: 60%;
+  color: #f9d026;
+  text-align: center;
+  margin-bottom: 45px;
+  font-family: Montserrat,sans-serif;
+  font-size: 23px;
+  font-weight: 700;
+  line-height: 30px;
+}
+
+.michecontactmain {
+  color: #15162f;
+  background-color: #f9d026;
+  border-radius: 25px;
+  padding: 15px 25px;
+  font-size: 19px;
+  display: flex;
+}
+
+.michetextblock {
+  padding: 0;
+  font-family: Montserrat,sans-serif;
+  font-weight: 700;
+  text-decoration: none;
+}
