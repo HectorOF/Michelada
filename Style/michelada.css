@@ -281,3 +281,58 @@ img{
   padding-right: 10px;
   position: relative;
 }
+
+.micheyellowbg{
+  background-color: #f9d026;
+  background-image: url(https://uploads-ssl.webflow.com/6123daab7aabe860039063f6/6123db6cc5df951dca867ded_il-espuma-rojo-inverted.svg);
+  background-position: 75% 0;
+  background-repeat: no-repeat;
+  background-size: 22%;
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+.michecontleft {
+  max-width: 70%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.micheh4 {
+  width: 58%;
+  color: #fff;
+  text-align: left;
+  text-transform: none;
+  margin-bottom: 55px;
+  font-family: Poppins,sans-serif;
+  font-size: 62px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 72px;
+  margin-top: 10px;
+}
+
+.michetextyllwbg {
+  width: 58%;
+  color: #15162f;
+  margin-bottom: 0;
+  font-family: Montserrat,sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 30px;
+}
+
+.spanmichewht {
+  color: #fff;
+  font-weight: 700;
+}
+
+.bold-text-29 {
+  font-size: 24px;
+  line-height: 31px;
+  font-weight: 700;
+}
